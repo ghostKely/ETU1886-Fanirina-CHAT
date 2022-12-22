@@ -1,2 +1,2 @@
 javac -d . *.java
-java mserver.MServer
+java server.MainServer
